@@ -1,7 +1,7 @@
 # ------------------------------------------------------------------------------------------ #
 # Title: Assignment06
-# Desc: This assignment demonstrates using functions
-# with structured error handling
+# Desc: This assignment demonstrates using classes and functions
+# with structured error handling and SoC
 # Change Log: (Who, When, What)
 #   Renato Felicio,11/16/2024,Created Script
 #   <Your Name Here>,<Date>,<Activity>
